@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td><img src="img1.jpeg" alt="Image 1" width="300"></td>
-    <td><img src="img2.jpeg" alt="Image 2" width="300"></td>
+    <td><img src="img3.jpeg" alt="Image 2" width="300"></td>
   </tr>
 </table>
 
