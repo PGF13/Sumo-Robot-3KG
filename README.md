@@ -8,4 +8,12 @@
 
 2 × QTR-1A Infrared Sensor
 
-<img src="img1.jpeg" alt="Project Image" width="600">
+<h1>ELECTRONIC BOARD</h1>
+
+<table>
+  <tr>
+    <td><img src="img1.jpeg" alt="Image 1" width="300"></td>
+    <td><img src="img2.jpeg" alt="Image 2" width="300"></td>
+  </tr>
+</table>
+
