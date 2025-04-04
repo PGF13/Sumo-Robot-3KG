@@ -1,4 +1,4 @@
-HARDWAER
+<h1>HARDWAER</h1>
 
 1 × Arduino Nano
 
